@@ -5,3 +5,4 @@ For this example I build a bill charge estimator to an insurance plan each year 
 * Creat a tool that estimate costomer's hospital bill to help insurence director determine which insurence plan is better for their costomers
 * Engineered features from BMI and ages
 * Optimized Linear, Quadratic and Interaction terms added, and standardized with Backward Selection algorithm to reach the best model
+![](https://github.com/jesse980107/jesse980107.github.io/blob/main/images/Residual%20Plot%203.png)
