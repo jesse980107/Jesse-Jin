@@ -8,7 +8,7 @@ For this example I build a bill charge estimator to an insurance plan each year 
 
 ![](https://github.com/jesse980107/Muxi_Jin/blob/main/images/Residual%20Plot%203.png)
 
-# [Online Shopping Intention Analysis](https://github.com/jesse980107/online-shopping)
+# [Project 2: Online Shopping Intention Analysis](https://github.com/jesse980107/online-shopping)
 With the growth of online shopping, it has become important to understand the factors that influence a consumer’s intention to buy from a website rather than just browse. This emerging topic is of interest to both academics and machine learning practitioners.
 From the matrix below, it is clear that we have poorly bundled many successful revenue sessions as uninterested customers, which means when the high bounce rate combined with a short product-related page duration, there are still a lot of customers. targets.
 ![](https://github.com/jesse980107/Muxi_Jin/blob/main/images/%E4%B8%8B%E8%BD%BD.png)
