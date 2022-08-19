@@ -1,2 +1,2 @@
-# Muxi_Jin
-Portfolio
+# Muxi_Portfolio
+Example Data Science Portfolio
