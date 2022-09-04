@@ -13,7 +13,7 @@ With the growth of online shopping, it has become important to understand the fa
 From the matrix below, it is clear that we have poorly bundled many successful revenue sessions as uninterested customers, which means when the high bounce rate combined with a short product-related page duration, there are still a lot of customers. targets.
 ![](https://github.com/jesse980107/Muxi_Jin/blob/main/images/%E4%B8%8B%E8%BD%BD.png)
 
-# [Project 3:Kaggle competition - Predict Rossmann Store Sales](https://github.com/jesse980107/Predict-Rossmann-Store-Sales-by-Gradient-Boosting-XGBoost)
+# [Project 3: Kaggle competition - Predict Rossmann Store Sales](https://github.com/jesse980107/Predict-Rossmann-Store-Sales-by-Gradient-Boosting-XGBoost)
 Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality.
 * Did a lot of feature engineering
 * I build a sales estimator by using GBMs with XGBoost
