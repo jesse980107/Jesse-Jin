@@ -8,7 +8,7 @@ ReasearchQFinder is a user-friendly news research tool designed for effortless i
 - Process article content through LangChain's UnstructuredURL Loader
 - Construct an embedding vector using OpenAI's embeddings and leverage FAISS, a powerful similarity search library, to enable swift and effective retrieval of relevant information
 - Interact with the LLM's (Chatgpt) by inputting queries and receiving answers along with source URLs.
-![](https://github.com/jesse980107/Muxi_Jin/blob/main/images/ReasearchQFinder.jpg =250x250)
+![](https://github.com/jesse980107/Muxi_Jin/blob/main/images/ReasearchQFinder.jpg)
 
 # [U.S. Insurance Bill Estimator](https://github.com/jesse980107/U.S.-Insurance-Bill-Estimator)
 For this example I build a bill charge estimator to an insurance plan each year based on the policy holder’s demographic information. This could be useful for someone who is insurance director. They could use a customer's information to estimate their hopspital bill and help them determine which insurence plan is better for this costomer.
