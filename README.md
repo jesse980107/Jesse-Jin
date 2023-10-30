@@ -2,7 +2,7 @@
 Example Data Science Portfolio
 # [ReasearchQFinder: News Research Tool](https://github.com/jesse980107/research_tool_project)
 ReasearchQFinder is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from any domain.
-## Features
+### Features
 
 - Load URLs or upload text files containing URLs to fetch article content.
 - Process article content through LangChain's UnstructuredURL Loader
