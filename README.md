@@ -28,7 +28,7 @@ The architecture consists of the following components:
    - **Power BI, Looker Studio, Tableau**: Visualizes the processed data.
 
 ### [Twitter/X Influencer Post Monitor](https://github.com/jesse980107/Twitter-X-Influencer-Post-Reply-Monitor/tree/main)
-This project is a web crawler designed to monitor tweets/replies from a specific Twitter/X influencer, such as Elon Musk. The crawler logs into Twitter, navigates to the influencer's page, and retrieves the latest tweet's URL and content. The project uses Selenium WebDriver for automation and interaction with the web page.
+This project is a web crawler designed to monitor tweets/replies from a specific Twitter/X influencer, such as Elon Musk. The crawler logs into Twitter, navigates to the influencer's page, and retrieves the latest tweet's URL and content. The project uses Selenium WebDriver to automate and interact with the web page.
 
 - Uses ChromeDriver to open a headless window
 - Automated login to Twitter
