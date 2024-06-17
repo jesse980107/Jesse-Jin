@@ -1,9 +1,9 @@
 # Muxi_Portfolio
 
 Data Science Portfolio
+
 ### [ReasearchQFinder: News Research Tool](https://github.com/jesse980107/research_tool_project)
 ReasearchQFinder is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from any domain.
-### Features
 
 - Load URLs or upload text files containing URLs to fetch article content.
 - Process article content through LangChain's UnstructuredURL Loader
@@ -26,6 +26,16 @@ The architecture consists of the following components:
    - **Azure Synapse Analytics**: Performs advanced analytics and find insight.
 5. **Dashboard**:
    - **Power BI, Looker Studio, Tableau**: Visualizes the processed data.
+
+### [Twitter/X Influencer Post Monitor]([https://github.com/jesse980107/research_tool_project](https://github.com/jesse980107/Twitter-X-Influencer-Post-Reply-Monitor/tree/main))
+This project is a web crawler designed to monitor tweets/replies from a specific Twitter/X influencer, such as Elon Musk. The crawler logs into Twitter, navigates to the influencer's page, and retrieves the latest tweet's URL and content. The project uses Selenium WebDriver for automation and interaction with the web page.
+
+- Uses ChromeDriver to open a headless window
+- Automated login to Twitter
+- Navigation to a specified Twitter influencer's page
+- Retrieval of the latest tweet's URL and content
+- Detection of changes in tweets to identify new posts
+- Extracts the information of new post/reply and pushes it to WeChat bot via API
 
 ### [U.S. Insurance Bill Estimator](https://github.com/jesse980107/U.S.-Insurance-Bill-Estimator)
 For this example I build a bill charge estimator to an insurance plan each year based on the policy holder’s demographic information. This could be useful for someone who is insurance director. They could use a customer's information to estimate their hopspital bill and help them determine which insurence plan is better for this costomer.
