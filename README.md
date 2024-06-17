@@ -1,4 +1,4 @@
-# Muxi_Portfolio
+# Jesse Jin's Portfolio
 
 Data Science Portfolio
 
