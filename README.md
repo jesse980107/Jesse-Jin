@@ -11,7 +11,7 @@ ReasearchQFinder is a user-friendly news research tool designed for effortless i
 - Interact with the LLM's (Chatgpt) by inputting queries and receiving answers along with source URLs.
 ![](https://github.com/jesse980107/Muxi_Jin/blob/main/images/ReasearchQFinder.jpg)
 
-### [End-To-End Data Engineering Project with Azure ]([https://github.com/jesse980107/research_tool_project](https://github.com/jesse980107/Azure-Data-Pipeline-Implementation-for-Olympic-Data-Analysis))
+### [End-To-End Data Engineering Project with Azure ](https://github.com/jesse980107/Azure-Data-Pipeline-Implementation-for-Olympic-Data-Analysis)
 This project demonstrates a comprehensive data pipeline using Azure Data Factory, Data Lake Gen 2, Azure Databricks, and Azure Synapse Analytics. The goal is to process and analyze data from the 2021 Tokyo Olympics and visualize the results using Power BI.
 ![Architecture Diagram](Architecture%20Diagram.png)
 The architecture consists of the following components:
