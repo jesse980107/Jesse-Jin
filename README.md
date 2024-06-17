@@ -5,11 +5,13 @@ Data Science Portfolio
 ### [ReasearchQFinder: News Research Tool](https://github.com/jesse980107/research_tool_project)
 ReasearchQFinder is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from any domain.
 
+![](https://github.com/jesse980107/Muxi_Jin/blob/main/images/ReasearchQFinder.jpg)
+
 - Load URLs or upload text files containing URLs to fetch article content.
 - Process article content through LangChain's UnstructuredURL Loader
 - Construct an embedding vector using OpenAI's embeddings and leverage FAISS, a powerful similarity search library, to enable swift and effective retrieval of relevant information
 - Interact with the LLM's (Chatgpt) by inputting queries and receiving answers along with source URLs.
-![](https://github.com/jesse980107/Muxi_Jin/blob/main/images/ReasearchQFinder.jpg)
+
 
 ### [End-To-End Data Engineering Project with Azure ](https://github.com/jesse980107/Azure-Data-Pipeline-Implementation-for-Olympic-Data-Analysis)
 This project demonstrates a comprehensive data pipeline using Azure Data Factory, Data Lake Gen 2, Azure Databricks, and Azure Synapse Analytics. The goal is to process and analyze data from the 2021 Tokyo Olympics and visualize the results using Power BI.
