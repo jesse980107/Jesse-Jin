@@ -4,6 +4,7 @@ Data Science Portfolio
 
 ### [LeetCode Algorithm](https://github.com/jesse980107/Leetcode) and [SQL](https://github.com/jesse980107/SQL) 
 ![Language](https://img.shields.io/badge/language-MySQL%20%2F%20PostgreSQL%20%2F%20Python-orange)&nbsp;![Update](https://img.shields.io/badge/update-daily%20%2F%20weekly-green.svg)&nbsp;
+
 To continuously improve my programming and problem-solving skills, I regularly practice on LeetCode, focusing on both SQL queries and algorithmic challenges. This consistent practice enhances my ability to write efficient code and approach complex problems systematically, skills that I apply directly to my data science projects and professional work.
 
 - Mastered complex SQL concepts including advanced window functions, recursive CTEs, and intricate multi-table joins
